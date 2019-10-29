@@ -21,7 +21,7 @@ public class Solution{
     public static void main(String[] args){
 		Scanner s = new Scanner(System.in);
 		int n = s.nextInt();
-        // total number of edges e
+        // total number of edges e jvyctxyvb
 		int e = s.nextInt();
         int edges[][]=new int[n][n];
         for(int i=0;i<e;i++){
